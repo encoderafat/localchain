@@ -4,6 +4,6 @@ and use the Front-End Template to make a balance transfer and make an on-chain r
 Balance transfer : 2 Units from Alice to Ferdie
 Remark: Github username (rafat)
 
-Screenshot :
+Screenshot : https://github.com/encoderafat/localchain/blob/main/img/remark.jpg
 
 <img src="https://github.com/encoderafat/localchain/blob/main/img/remark.jpg" />
